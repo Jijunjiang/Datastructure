@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60a29c5a-438c-44ad-9858-f7e0fc94e111" name="Default" comment="" />
+    <list default="true" id="9b4d403d-12b7-4188-8733-1e9087ed7d4f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,32 +13,34 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyHashMap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyHashMap.java">
+      <file leaf-file-name="solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StringII/solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+            <state relative-caret-position="752">
+              <caret line="252" column="9" lean-forward="true" selection-start-line="252" selection-start-column="9" selection-end-line="252" selection-end-column="9" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="method#MyHashMap#0;class#MyHashMap#0" expanded="false" />
-                <element signature="method#clear#0;class#MyHashMap#0" expanded="false" />
-                <element signature="method#hash#0;class#MyHashMap#0" expanded="false" />
-                <element signature="method#containsValue#0;class#MyHashMap#0" expanded="false" />
-                <element signature="method#get#0;class#MyHashMap#0" expanded="false" />
-                <element signature="method#put#0;class#MyHashMap#0" expanded="false" />
-                <element signature="method#needRehashing#0;class#MyHashMap#0" expanded="false" />
-                <element signature="method#rehashing#0;class#MyHashMap#0" expanded="false" />
-                <element signature="method#remove#0;class#MyHashMap#0" expanded="false" />
+                <element signature="method#rightShift#0;class#solution#0" expanded="false" />
+                <element signature="method#reverseWords#0;class#solution#0" expanded="false" />
+                <element signature="method#reverse#0;class#solution#0" expanded="false" />
+                <element signature="method#replaceI#0;class#solution#0" expanded="false" />
+                <element signature="method#replaceShorter#0;class#solution#0" expanded="false" />
+                <element signature="method#replaceLonger#0;class#solution#0" expanded="false" />
+                <element signature="method#equalSubstring#0;class#solution#0" expanded="false" />
+                <element signature="method#copySubstring#0;class#solution#0" expanded="false" />
+                <element signature="method#getAllMatches#0;class#solution#0" expanded="false" />
+                <element signature="e#4665#4674#0" expanded="true" />
+                <element signature="method#replace#0;class#solution#0" expanded="false" />
+                <element signature="method#isEqual#0;class#solution#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main.java">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StringII/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            <state relative-caret-position="135">
+              <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -61,16 +63,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main.java" />
-        <option value="$PROJECT_DIR$/src/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/src/StringII.java" />
+        <option value="$PROJECT_DIR$/src/StringII/main.java" />
+        <option value="$PROJECT_DIR$/src/StringII/solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="251" />
-    <option name="y" value="128" />
-    <option name="width" value="853" />
-    <option name="height" value="837" />
+    <option name="x" value="293" />
+    <option name="y" value="70" />
+    <option name="width" value="1147" />
+    <option name="height" value="854" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -91,32 +94,36 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MyHashMap" />
+              <option name="myItemId" value="stringII" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MyHashMap" />
+              <option name="myItemId" value="stringII" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MyHashMap" />
+              <option name="myItemId" value="stringII" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MyHashMap" />
+              <option name="myItemId" value="stringII" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StringII" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -134,8 +141,13 @@
   </component>
   <component name="RunManager" selected="Application.main">
     <configuration default="false" name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="main" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="StringII.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="StringII.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -144,7 +156,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyHashMap" />
+      <module name="stringII" />
       <envs />
       <method />
     </configuration>
@@ -300,7 +312,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyHashMap" />
+      <module name="stringII" />
       <envs />
       <method />
     </configuration>
@@ -366,16 +378,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60a29c5a-438c-44ad-9858-f7e0fc94e111" name="Default" comment="" />
-      <created>1494002166754</created>
+      <changelist id="9b4d403d-12b7-4188-8733-1e9087ed7d4f" name="Default" comment="" />
+      <created>1497667456271</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1494002166754</updated>
+      <updated>1497667456271</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="251" y="128" width="853" height="837" extended-state="0" />
+    <frame x="293" y="70" width="1147" height="854" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -386,24 +398,24 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866243" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17962264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26494345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997396" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -415,31 +427,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MyHashMap.java</url>
-          <line>189</line>
+          <url>file://$PROJECT_DIR$/src/StringII/solution.java</url>
+          <line>182</line>
           <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MyHashMap.java</url>
-          <line>179</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MyHashMap.java</url>
-          <line>122</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MyHashMap.java</url>
-          <line>173</line>
-          <properties />
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -448,111 +441,153 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/StringII/solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="method#MyHashMap#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#hash#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#containsValue#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#get#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#put#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#needRehashing#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#rehashing#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#MyHashMap#0" expanded="false" />
+            <element signature="method#rightShift#0;class#solution#0" expanded="false" />
+            <element signature="method#reverseWords#0;class#solution#0" expanded="false" />
+            <element signature="method#reverse#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceI#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceShorter#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceLonger#0;class#solution#0" expanded="false" />
+            <element signature="method#equalSubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#copySubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#getAllMatches#0;class#solution#0" expanded="false" />
+            <element signature="e#4665#4674#0" expanded="true" />
+            <element signature="method#replace#0;class#solution#0" expanded="false" />
+            <element signature="method#isEqual#0;class#solution#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java">
+    <entry file="file://$PROJECT_DIR$/src/StringII/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="135">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/StringII/solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="158" column="65" lean-forward="true" selection-start-line="158" selection-start-column="65" selection-end-line="158" selection-end-column="65" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="method#MyHashMap#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#hash#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#containsValue#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#get#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#put#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#needRehashing#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#rehashing#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#MyHashMap#0" expanded="false" />
+            <element signature="method#rightShift#0;class#solution#0" expanded="false" />
+            <element signature="method#reverseWords#0;class#solution#0" expanded="false" />
+            <element signature="method#reverse#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceI#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceShorter#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceLonger#0;class#solution#0" expanded="false" />
+            <element signature="method#equalSubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#copySubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#getAllMatches#0;class#solution#0" expanded="false" />
+            <element signature="e#4665#4674#0" expanded="true" />
+            <element signature="method#replace#0;class#solution#0" expanded="false" />
+            <element signature="method#isEqual#0;class#solution#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java">
+    <entry file="file://$PROJECT_DIR$/src/StringII/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/StringII/solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2280">
-          <caret line="152" column="47" lean-forward="false" selection-start-line="152" selection-start-column="40" selection-end-line="152" selection-end-column="47" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="method#MyHashMap#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#hash#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#containsValue#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#get#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#put#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#needRehashing#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#rehashing#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#MyHashMap#0" expanded="false" />
+            <element signature="method#rightShift#0;class#solution#0" expanded="false" />
+            <element signature="method#reverseWords#0;class#solution#0" expanded="false" />
+            <element signature="method#reverse#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceI#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceShorter#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceLonger#0;class#solution#0" expanded="false" />
+            <element signature="method#equalSubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#copySubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#getAllMatches#0;class#solution#0" expanded="false" />
+            <element signature="e#4665#4674#0" expanded="true" />
+            <element signature="method#replace#0;class#solution#0" expanded="false" />
+            <element signature="method#isEqual#0;class#solution#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java">
+    <entry file="file://$PROJECT_DIR$/src/StringII/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/StringII/solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="method#MyHashMap#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#hash#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#containsValue#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#get#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#put#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#needRehashing#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#rehashing#0;class#MyHashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#MyHashMap#0" expanded="false" />
+            <element signature="method#rightShift#0;class#solution#0" expanded="false" />
+            <element signature="method#reverseWords#0;class#solution#0" expanded="false" />
+            <element signature="method#reverse#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceI#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceShorter#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceLonger#0;class#solution#0" expanded="false" />
+            <element signature="method#equalSubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#copySubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#getAllMatches#0;class#solution#0" expanded="false" />
+            <element signature="e#4665#4674#0" expanded="true" />
+            <element signature="method#replace#0;class#solution#0" expanded="false" />
+            <element signature="method#isEqual#0;class#solution#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java">
+    <entry file="file://$PROJECT_DIR$/src/StringII/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringII.java" />
+    <entry file="file://$PROJECT_DIR$/src/StringII.java" />
+    <entry file="file://$PROJECT_DIR$/src/StringII.java" />
+    <entry file="file://$PROJECT_DIR$/src/StringII.java" />
+    <entry file="file://$PROJECT_DIR$/src/StringII.java" />
+    <entry file="file://$PROJECT_DIR$/src/StringII/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringII/solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="252" column="9" lean-forward="true" selection-start-line="252" selection-start-column="9" selection-end-line="252" selection-end-column="9" />
+          <folding>
+            <element signature="method#rightShift#0;class#solution#0" expanded="false" />
+            <element signature="method#reverseWords#0;class#solution#0" expanded="false" />
+            <element signature="method#reverse#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceI#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceShorter#0;class#solution#0" expanded="false" />
+            <element signature="method#replaceLonger#0;class#solution#0" expanded="false" />
+            <element signature="method#equalSubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#copySubstring#0;class#solution#0" expanded="false" />
+            <element signature="method#getAllMatches#0;class#solution#0" expanded="false" />
+            <element signature="e#4665#4674#0" expanded="true" />
+            <element signature="method#replace#0;class#solution#0" expanded="false" />
+            <element signature="method#isEqual#0;class#solution#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
